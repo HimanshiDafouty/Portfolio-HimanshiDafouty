@@ -8,7 +8,7 @@ export const Bio = {
       "I am a driven and adaptable person who embraces new challenges with enthusiasm. My passion for learning fuels my commitment to producing high-quality outcomes. With a positive outlook and a growth mindset, I am prepared to make a significant impact and achieve remarkable success.",
     github: "https://github.com/HimanshiDafouty",
     resume:
-      "",
+      "https://drive.google.com/file/d/1T7-CWP8C_BJFMdU_kUrJlbln3SmOyBrg/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/himanshi-dafouty-b51936230/",
   };
   
@@ -124,7 +124,7 @@ export const Bio = {
       role: "Open Source Contributor ",
       company: "GirlScript Summer of Code",
       date: "May 2023 - July 2023",
-      desc: "Contributed to multiple open-source projects and learned directly from industry experts, enriching my technical skills and knowledge during GirlScript Summer of Code",
+      desc: "Contributed to multiple open-source projects and learned directly from industry experts, enriching my technical skills and knowledge during GirlScript Summer of Codex",
       // doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
     },
     {
